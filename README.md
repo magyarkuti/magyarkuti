@@ -1,11 +1,12 @@
-### Hi there 👋
-
 <!--
 **magyarkuti/magyarkuti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+-->
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on my Linear Algebra book and preparing for the fall semester.
+- 🌱 I’m currently learning Github pages, because I am tending to move my BCE website to a more private place.
+- ⚡ I should have done many, many other things for this summer, but ...
+<!--
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
