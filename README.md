@@ -15,8 +15,8 @@ Here are some ideas to get started:
         alt="ORCID iD icon"/>
       https://orcid.org/0000-0003-4444-0481
     </a>
-- 🔭 I’m currently working on my Linear Algebra book and preparing for the fall semester.
-- 🌱 I’m currently learning Github pages, because I am tending to move my BCE website to a more private place.
+- 🔭 I’m continuously working on my [Linear Algebra](https://magyarkuti.github.io/linearalgebra) book.
+- 🌱 Learning Github pages, because I am tending to move my BCE website to a more private place.
 - ⚡ One of my non-mainstream project is https://magyarkuti.github.io/corvinusmetropolis. It is a LaTeX presentation template for my students and friends.
 - 👯 My friend Peter Tallos turns 70 soon. https://magyarkuti.github.io/pt70
 <!--
