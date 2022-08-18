@@ -1,8 +1,20 @@
 <!--
 **magyarkuti/magyarkuti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-Here are some ideas to get you started:
-
+Here are some ideas to get started:
+- <a
+    id="cy-effective-orcid-url"
+    class="underline"
+     href="https://orcid.org/0000-0003-4444-0481"
+     target="orcid.widget"
+     rel="me noopener noreferrer"
+     style="vertical-align: top">
+     <img
+        src="https://orcid.org/sites/default/files/images/orcid_16x16.png"
+        style="width: 1em; margin-inline-start: 0.5em"
+        alt="ORCID iD icon"/>
+      https://orcid.org/0000-0003-4444-0481
+    </a>
 - 🔭 I’m currently working on my Linear Algebra book and preparing for the fall semester.
 - 🌱 I’m currently learning Github pages, because I am tending to move my BCE website to a more private place.
 - ⚡ One of my non-mainstream project is https://magyarkuti.github.io/corvinusmetropolis. It is a LaTeX presentation template for my students and friends.
