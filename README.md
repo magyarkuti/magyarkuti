@@ -5,7 +5,8 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on my Linear Algebra book and preparing for the fall semester.
 - 🌱 I’m currently learning Github pages, because I am tending to move my BCE website to a more private place.
-- ⚡ The very last project I finished is https://magyarkuti.github.io/corvinusmetropolis. It is a LaTeX presentation template for my students and friends.
+- ⚡ One of my non-mainstream project is https://magyarkuti.github.io/corvinusmetropolis. It is a LaTeX presentation template for my students and friends.
+- 👯 My friend Peter Tallos turns 70 soon. https://magyarkuti.github.io/pt70
 <!--
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
