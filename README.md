@@ -16,9 +16,9 @@ Here are some ideas to get started:
       https://orcid.org/0000-0003-4444-0481
     </a>
 - 🔭 I’m continuously working on my [Linear Algebra](https://magyarkuti.github.io/linearalgebra) book.
-- 🌱 Learning Github pages, because I am tending to move my BCE website to a more private place.
+- 🌱 Learning Github pages, because I am tending to move my [Corvinus website](http://web.uni-corvinus.hu/magyarkuti) to a more private place.
 - ⚡ One of my non-mainstream project is https://magyarkuti.github.io/corvinusmetropolis. It is a LaTeX presentation template for my students and friends.
-- 👯 My friend Peter Tallos turns 70 soon. https://magyarkuti.github.io/pt70
+- 👯 My friend Peter Tallos turns 70 soon. See https://magyarkuti.github.io/pt70.
 <!--
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
