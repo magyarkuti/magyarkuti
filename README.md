@@ -17,7 +17,7 @@ Here are some ideas to get started:
     </a>
 - 🔭 I’m continuously working on my [Linear Algebra](https://magyarkuti.github.io/linearalgebra) book.
 - 🌱 Learning Github pages, because I am tending to move my [Corvinus website](http://web.uni-corvinus.hu/magyarkuti) to a more private place.
-- ⚡ One of my non-mainstream project is https://magyarkuti.github.io/corvinusmetropolis. It is a LaTeX presentation template for my colleagues and  students.
+- ⚡ One of my non-mainstream project is https://magyarkuti.github.io/corvinusmetropolis. It is a `LaTeX` presentation template for my colleagues and  students.
 - 👯 My friend Peter Tallos turns 70 soon. See https://magyarkuti.github.io/pt70.
 <!--
 - 🌱 I’m currently learning ...
